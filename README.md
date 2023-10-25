@@ -1,5 +1,7 @@
 # To-Do App - React Native
 
+
+
 <center>
 <img src="image.jpg" alt="app image" width="200" style="position: 'relative'; align-items: 'center' "/>
 </center>
@@ -27,12 +29,10 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
   
 
-You can add screenshots of your app here. Use the following format:
 
 
 
-
-<iframe src="./video.mp4">
+<iframe src="./video.mp4" title="description"></iframe>
 
 
   
