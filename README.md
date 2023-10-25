@@ -32,7 +32,8 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
 
 
-<iframe src="./video.mp4" title="description"></iframe>
+[<img src="./video.mp4" width="600" height="300"
+/>](https://www.youtube.com/embed/<VIDEO_ID>)
 
 
   
