@@ -31,9 +31,9 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
 
 
+![ezgif com-gif-maker](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/0c6befda-1a4c-43e4-aefa-af7fa970a0f6)
 
 
-https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/489c49a9-3c7b-4f49-8ff2-cfc9543ff465
 
 
 
