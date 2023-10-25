@@ -32,7 +32,7 @@ You can add screenshots of your app here. Use the following format:
 
 
 
-https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/5340b1c4-2a1e-48f7-8a88-bfc64fa9c9f9
+<iframe src="./video.mp4">
 
 
   
