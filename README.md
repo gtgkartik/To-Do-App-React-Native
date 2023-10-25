@@ -1,9 +1,9 @@
 # To-Do App - React Native
 
+<center>
+<img src="[drawing.jpg](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/a0c89389-e1d2-4189-a832-a65469cc03bb)" alt="drawing" width="150"/>
   
-![App Screenshot](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/a0c89389-e1d2-4189-a832-a65469cc03bb)
-
-
+</center>
   
 
 A simple To-Do App built using React Native. This app allows you to create, manage, and organize your daily tasks and to-dos efficiently.
