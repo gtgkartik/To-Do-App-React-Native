@@ -32,7 +32,7 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
 
 
-![Working App](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/a1a420f2-9eb0-4323-8980-d438c48d275e)
+![Working App](/app.gif)
 
 
 
