@@ -31,8 +31,8 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
 
 
-![ezgif com-gif-maker](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/0c6befda-1a4c-43e4-aefa-af7fa970a0f6)
 
+![Working App](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/a1a420f2-9eb0-4323-8980-d438c48d275e)
 
 
 
@@ -64,7 +64,15 @@ npm install
 
 npm start
 
-``` 
+```
+## Download APK 
+Navigate to the folder
+
+```
+"/to do output/todoapp/kartiks-to-to-app.apk" 
+```
+
+
 ## Contributing
 We welcome contributions from the open-source community. If you'd like to contribute to this project, please follow these steps:
 
