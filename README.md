@@ -32,7 +32,7 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
 
 
-![Working App](/app.gif)
+![Working App](/app.gif){width="250px"}
 
 
 
