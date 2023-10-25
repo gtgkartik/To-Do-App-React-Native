@@ -1,10 +1,9 @@
-
 # To-Do App - React Native
 
+<center>
+<img src="[drawing.jpg](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/a0c89389-e1d2-4189-a832-a65469cc03bb)" alt="app image" width="200"/>
   
-
-![App Screenshot](/path/to/your/screenshot.png)
-
+</center>
   
 
 A simple To-Do App built using React Native. This app allows you to create, manage, and organize your daily tasks and to-dos efficiently.
@@ -15,23 +14,17 @@ A simple To-Do App built using React Native. This app allows you to create, mana
 
   
 
--  **Task Management**: Add, edit, and remove tasks easily.
+-  **Task Management**: Add and remove tasks easily
 
--  **Task Categories**: Organize your tasks by categories for better organization.
+-  **Priority Levels**: The recently added task will be on the top as a priority
 
--  **Priority Levels**: Assign priority levels to tasks.
-
--  **Due Dates**: Set due dates for your tasks to keep track of deadlines.
-
--  **Reminders**: Get reminders for upcoming tasks.
-
--  **User-Friendly Interface**: An intuitive and user-friendly design for a seamless experience.
+-  **User-Friendly Interface**: Minimalist To Do App, No fuss
 
 -  **Cross-Platform**: Works on both iOS and Android.
 
   
 
-## Screenshots
+## App Working
 
   
 
@@ -39,7 +32,8 @@ You can add screenshots of your app here. Use the following format:
 
 
 
-<!-- ![Screenshot 1](/image.jpg) -->
+
+https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/5340b1c4-2a1e-48f7-8a88-bfc64fa9c9f9
 
 
   
