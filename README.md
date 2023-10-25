@@ -39,8 +39,7 @@ You can add screenshots of your app here. Use the following format:
 
 
 
-![Screenshot 1](/image.jpg){width=400px height=300px}
-
+<!-- ![Screenshot 1](/image.jpg) -->
 
 
   
