@@ -1,8 +1,7 @@
 # To-Do App - React Native
 
 <center>
-<img src="image.jpg" alt="app image" width="200"/>
-  
+<img src="image.jpg" alt="app image" width="200" style="position: 'relative'; align-items: 'center' "/>
 </center>
   
 
