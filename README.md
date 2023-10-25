@@ -1,4 +1,3 @@
-![image](https://github.com/gtgkartik/To-Do-App-React-Native/assets/37100054/381c0c7c-cae8-49e5-9ca4-3347f6a1a06d)
 # To-Do App - React Native
 
   
